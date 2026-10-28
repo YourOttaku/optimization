@@ -26,3 +26,34 @@
 
 # Скрін роботи програми
 <img width="885" height="459" alt="image" src="https://github.com/user-attachments/assets/8370eda3-d7c6-4f01-b350-4bbd34a38717" />
+
+# Лабораторна 5
+# Блок-схема методу Пауелла
+<img width="254" height="742" alt="image" src="https://github.com/user-attachments/assets/4e0cd9bb-a566-4d90-89a9-5f706e5ef310" />
+
+# Скрін роботи програми та побудований графік
+<img width="1030" height="253" alt="image" src="https://github.com/user-attachments/assets/48601dd0-6d5b-4cad-98fe-25d7b43686c2" />
+<img width="1000" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/3bbbe2ad-f4e5-4642-8331-a5593094b972" />
+
+# Лабораторна 6
+# Блок-схеми методів Ньютона та Ньютона-Рафсона
+<img width="610" height="792" alt="image" src="https://github.com/user-attachments/assets/7d231734-3193-4df1-a53b-0e16ee5e67f5" />
+<img width="472" height="689" alt="image" src="https://github.com/user-attachments/assets/5b834291-2892-4fdd-bf13-3bb4dfaab722" />
+<img width="470" height="523" alt="image" src="https://github.com/user-attachments/assets/f770a32a-f7a8-41f1-aeca-492e6bf80f6c" />
+
+# Скрін роботи програми та побудований графік 
+<img width="828" height="535" alt="image" src="https://github.com/user-attachments/assets/6bfb0d00-e6b2-42fd-8ee8-44df5e89ef7c" />
+<img width="1000" height="600" alt="Figure_3" src="https://github.com/user-attachments/assets/5e870ef2-e6f9-4c60-811b-00d4cab1f53c" />
+
+# Лабораторна 6, експеримент
+
+# Скрін роботи коду
+<img width="820" height="580" alt="image" src="https://github.com/user-attachments/assets/de271a68-fd9d-4f63-9e46-9e7babad707d" />
+<img width="836" height="479" alt="image" src="https://github.com/user-attachments/assets/2bc2079b-aceb-413e-8c11-d7e8cb03297c" />
+
+Сам експеримент, власне, показав, що при старті з лівої межі (x0 = -2.55) метод швидко знаходить мінімум, проте у точках (-0.99, -0.55, -0.5) друга похідна стає від'ємною, що зазвичай спрямовує класичний алгоритм до максимуму замість мінімуму. Хоча безпосередньо регулювання кроку за від'ємної кривизни втрачає сенс, програму успішно врятував передбачений алгоритмом Ньютона-Рафсона захисний механізм перевірки знаку f''(x), який миттєво перервав розрахунки та захистив від видачі хибного результату
+
+
+
+
+
