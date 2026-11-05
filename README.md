@@ -53,7 +53,19 @@
 
 Сам експеримент, власне, показав, що при старті з лівої межі (x0 = -2.55) метод швидко знаходить мінімум, проте у точках (-0.99, -0.55, -0.5) друга похідна стає від'ємною, що зазвичай спрямовує класичний алгоритм до максимуму замість мінімуму. Хоча безпосередньо регулювання кроку за від'ємної кривизни втрачає сенс, програму успішно врятував передбачений алгоритмом Ньютона-Рафсона захисний механізм перевірки знаку f''(x), який миттєво перервав розрахунки та захистив від видачі хибного результату
 
+# Лабораторна 7
+# Блок-схема методу січних
+<img width="563" height="788" alt="image" src="https://github.com/user-attachments/assets/14adfda7-b59f-4f23-a08c-3e0ed697cfb0" />
 
+# Скрін роботи програми та результати експерименту
+<img width="521" height="802" alt="image" src="https://github.com/user-attachments/assets/d54588d8-aadb-4fd4-9799-59857f98fb79" />
 
+# Лабораторна 8
+# Блок-схема градієнтних методів
+<img width="389" height="785" alt="image" src="https://github.com/user-attachments/assets/978ad43e-f856-4467-9076-f9d81401633f" />
 
-
+# Скріни роботи програми та графіки
+<img width="790" height="802" alt="image" src="https://github.com/user-attachments/assets/9945e1a8-d20e-4b60-9c25-e2bf8e54ead7" />
+<img width="789" height="750" alt="image" src="https://github.com/user-attachments/assets/d37a19d0-c6b7-425a-94ae-225a35105fc3" />
+<img width="779" height="603" alt="image" src="https://github.com/user-attachments/assets/64e64aed-ae6b-42c7-b1cf-9c6c5b1217a1" />
+<img width="1820" height="780" alt="trajectories" src="https://github.com/user-attachments/assets/eede0af5-a068-46b8-a879-458b77bc9c34" />
