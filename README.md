@@ -69,3 +69,22 @@
 <img width="789" height="750" alt="image" src="https://github.com/user-attachments/assets/d37a19d0-c6b7-425a-94ae-225a35105fc3" />
 <img width="779" height="603" alt="image" src="https://github.com/user-attachments/assets/64e64aed-ae6b-42c7-b1cf-9c6c5b1217a1" />
 <img width="1820" height="780" alt="trajectories" src="https://github.com/user-attachments/assets/eede0af5-a068-46b8-a879-458b77bc9c34" />
+
+# Лабораторна 9
+# Блок-схема методу Флетчера-Рівса(спряжених)
+<img width="453" height="715" alt="image" src="https://github.com/user-attachments/assets/2de01aa9-267b-4339-b4fa-5a7c7bd2b180" />
+
+# Скрін роботи програми та графік
+<img width="910" height="649" alt="image" src="https://github.com/user-attachments/assets/b196afa4-0960-4bc5-8b79-9417ead96f47" />
+<img width="1170" height="910" alt="trajectories" src="https://github.com/user-attachments/assets/8e9de4c2-2952-4bc0-8fb4-ecaa56c9e8a1" />
+
+# Лабораторна 10
+# Блок-схема методу Хука-Джівса(прямий без похідних)
+<img width="457" height="776" alt="image" src="https://github.com/user-attachments/assets/df5c7121-8dff-4e72-ad75-6b8572664fda" />
+
+# Скріни роботи програми та графіки
+<img width="791" height="468" alt="image" src="https://github.com/user-attachments/assets/4d052e22-686a-48d5-8ef9-dc6e79f68507" />
+<img width="789" height="880" alt="image" src="https://github.com/user-attachments/assets/fe5408eb-4166-406f-b86e-0b4dc1667927" />
+<img width="784" height="667" alt="image" src="https://github.com/user-attachments/assets/edaf1d44-430a-4d9d-bdf8-fe639543ddac" />
+<img width="1820" height="780" alt="trajectories" src="https://github.com/user-attachments/assets/6e664329-f301-430a-82dc-d1a083c59b23" />
+
