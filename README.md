@@ -97,6 +97,7 @@
 <img width="1820" height="780" alt="contours_trajectory" src="https://github.com/user-attachments/assets/89ac6218-1823-42e8-b512-e62fa101034a" />
 
 # Лабораторна 11б
+## ***ФАЙЛ МАЄ БУТИ ПОРУЧ З 11а*** 
 # Скріни роботи програми
 <img width="951" height="820" alt="image" src="https://github.com/user-attachments/assets/b195d291-4aeb-4ebe-9efe-a7ae5bb57368" />
 <img width="874" height="752" alt="image" src="https://github.com/user-attachments/assets/92bf860e-4db2-42ce-9df8-c09a1887be0c" />
