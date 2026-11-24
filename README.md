@@ -88,3 +88,20 @@
 <img width="784" height="667" alt="image" src="https://github.com/user-attachments/assets/edaf1d44-430a-4d9d-bdf8-fe639543ddac" />
 <img width="1820" height="780" alt="trajectories" src="https://github.com/user-attachments/assets/6e664329-f301-430a-82dc-d1a083c59b23" />
 
+# Лаборатора 11а
+# Блок-схема методу зовнішніх штрафних
+<img width="532" height="631" alt="image" src="https://github.com/user-attachments/assets/e2ca9765-f0ab-4d5e-8c3d-acb14eee006f" />
+
+# Скрін роботи програми та графіки
+<img width="1093" height="410" alt="image" src="https://github.com/user-attachments/assets/a074a356-01f3-491b-8621-c4bea722e79c" />
+<img width="1820" height="780" alt="contours_trajectory" src="https://github.com/user-attachments/assets/89ac6218-1823-42e8-b512-e62fa101034a" />
+
+# Лабораторна 11б
+# Скріни роботи програми
+<img width="951" height="820" alt="image" src="https://github.com/user-attachments/assets/b195d291-4aeb-4ebe-9efe-a7ae5bb57368" />
+<img width="874" height="752" alt="image" src="https://github.com/user-attachments/assets/92bf860e-4db2-42ce-9df8-c09a1887be0c" />
+<img width="939" height="854" alt="image" src="https://github.com/user-attachments/assets/76c306e4-b0b7-41dd-981d-b6b20a5fda78" />
+<img width="854" height="716" alt="image" src="https://github.com/user-attachments/assets/c1e7dc75-b0cc-4f89-8a3d-d78818beff04" />
+
+
+
